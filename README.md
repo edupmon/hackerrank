@@ -7,3 +7,5 @@ _Obs.: Algumas boas práticas por vezes não são utilizadas, para respeitar nom
 ## Tópico "Problem Solving"
 
 * solve-me-first.ipynb
+
+* simple-array-sum.ipynb
