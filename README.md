@@ -1,2 +1,5 @@
-# hackerrank
-Minhas soluções dos desafios encontrados em HackerRank
+# Minhas soluções dos desafios encontrados em HackerRank
+
+Cada notebook contém minha solução de um desafio disponível no site https://www.hackerrank.com.
+
+_Obs.: Algumas boas práticas por vezes não são utilizadas, para respeitar nomes de funções/classes/variáveis já disponíveis nos enunciados dos problemas._
