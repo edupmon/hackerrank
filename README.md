@@ -11,3 +11,5 @@ _Obs.: Algumas boas práticas por vezes não são utilizadas, para respeitar nom
 * simple-array-sum.ipynb
 
 * compare-the-triplets.ipynb
+
+* a-very-big-sum.ipynb
