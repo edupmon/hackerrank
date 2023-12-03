@@ -17,3 +17,5 @@ _Obs.: Algumas boas práticas por vezes não são utilizadas, para respeitar nom
 * diagonal-difference.ipynb
 
 * plus-minus.ipynb
+
+* staircase.ipynb
