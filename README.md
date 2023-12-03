@@ -13,3 +13,5 @@ _Obs.: Algumas boas práticas por vezes não são utilizadas, para respeitar nom
 * compare-the-triplets.ipynb
 
 * a-very-big-sum.ipynb
+
+* diagonal-difference.ipynb
