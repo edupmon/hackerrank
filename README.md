@@ -19,3 +19,5 @@ _Obs.: Algumas boas práticas por vezes não são utilizadas, para respeitar nom
 * plus-minus.ipynb
 
 * staircase.ipynb
+
+* mini-max-sum.ipynb
