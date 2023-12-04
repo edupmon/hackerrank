@@ -27,3 +27,5 @@ _Obs.: Algumas boas práticas por vezes não são utilizadas, para respeitar nom
 * time-conversion.ipynb
 
 * grading.ipynb
+
+* apple-and-orange.ipynb
