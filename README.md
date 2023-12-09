@@ -6,30 +6,9 @@ _Obs.: Algumas boas práticas/padrões por vezes não são utilizados, para resp
 
 ## Tópico "Problem Solving"
 
-* solve-me-first.ipynb
-
-* simple-array-sum.ipynb
-
-* compare-the-triplets.ipynb
-
-* a-very-big-sum.ipynb
-
-* diagonal-difference.ipynb
-
-* plus-minus.ipynb
-
-* staircase.ipynb
-
-* mini-max-sum.ipynb
-
-* birthday-cake-candles.ipynb
-
-* time-conversion.ipynb
-
-* grading.ipynb
-
-* apple-and-orange.ipynb
-
-* kangaroo.ipynb
-
-* between-two-sets.ipynb
+|   |   |   |   |
+|---|---|---|---|
+|[001] solve-me-first.ipynb|[002] simple-array-sum.ipynb|[003] compare-the-triplets.ipynb|[004] a-very-big-sum.ipynb|
+|[005] diagonal-difference.ipynb|[006] plus-minus.ipynb|[007] staircase.ipynb|[008] mini-max-sum.ipynb|
+|[009] birthday-cake-candles.ipynb|[010] time-conversion.ipynb|[011] grading.ipynb|[012] apple-and-orange.ipynb|
+|[013] kangaroo.ipynb|[014] between-two-sets.ipynb| | |
