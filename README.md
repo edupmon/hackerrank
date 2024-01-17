@@ -14,4 +14,4 @@ _Obs.: Algumas boas práticas/padrões por vezes não são utilizados, para resp
 | 4 | 013-kangaroo.ipynb | 014-between-two-sets.ipynb | 015-breaking-best-and-worst-records.ipynb | 016-the-birthday-bar.ipynb |
 | 5 | 017-divisible-sum-pairs.ipynb | 018-migratory-birds.ipynb | 019-day-of-the-programmer.ipynb | 020-bon-appetit.ipynb |
 | 6 | 021-sock-merchant.ipynb | 022-drawing-book.ipynb | 023-counting-valleys.ipynb | 024-electronics-shop.ipynb |
-| 7 | 025-cats-and-a-mouse.ipynb | 026-magic-square-forming.ipynb |  |  |
+| 7 | 025-cats-and-a-mouse.ipynb | 026-magic-square-forming.ipynb | 027-picking-numbers.ipynb |  |
