@@ -17,4 +17,4 @@ _Obs.: Algumas boas práticas/padrões por vezes não são utilizados, para resp
 |  7 | 025-cats-and-a-mouse.ipynb | 026-magic-square-forming.ipynb | 027-picking-numbers.ipynb | 028-climbing-the-leaderboard.ipynb |
 |  8 | 029-the-hurdle-race.ipynb | 030-designer-pdf-viewer.ipynb | 031-utopian-tree.ipynb | 032-angry-professor.ipynb |
 |  9 | 033-beautiful-days-at-the-movies.ipynb | 034-strange-advertising.ipynb | 035-save-the-prisoner.ipynb | 036-circular-array-rotation.ipynb |
-| 10 | 037-permutation-equation.ipynb | 038-jumping-on-the-clouds-revisited.ipynb | 039-find-digits.ipynb |  |
+| 10 | 037-permutation-equation.ipynb | 038-jumping-on-the-clouds-revisited.ipynb | 039-find-digits.ipynb | 040-extra-long-factorials.ipynb |
