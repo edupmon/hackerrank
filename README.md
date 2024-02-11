@@ -24,4 +24,4 @@ _Obs.: Algumas boas práticas/padrões por vezes não são utilizados, para resp
 
 | | A | B | C | D |
 | ---: | :--- | :--- | :--- | :--- |
-|  1 | 001-revising-the-select-query.ipynb |  |  |  |
+|  1 | 001-revising-the-select-query.ipynb | 002-revising-the-select-query-2.ipynb |  |  |
