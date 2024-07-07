@@ -1,7 +1,3 @@
-CREATE SCHEMA IF NOT EXISTS hackerrank;
-
-USE hackerrank;
-
 DROP TABLE IF EXISTS city;
 
 CREATE TABLE city (
